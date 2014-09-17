@@ -1,0 +1,15 @@
+{
+    "name": "burngame",
+    "description": "",
+    "version": "0.0.1",
+    "author": "4stern <4sternrb@googlemail.com>",
+    "dependencies": {
+        "body-parser": "^1.8.2",
+        "crypto": "*",
+        "express": "*"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-nodeunit": "~0.4.1"
+    }
+}
