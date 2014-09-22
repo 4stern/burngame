@@ -1,6 +1,6 @@
 {
-  "name": "burngame",
-  "id": "burngame",
+  "name": "burngame-db",
+  "id": "burngame-db",
   "description": "",
   "version": "0.0.1",
   "author": [
@@ -16,15 +16,7 @@
     }
   ],
   "dependencies": {
-    "body-parser": "^1.8.2",
-    "burngame-db": "0.0.1",
     "crypto": "*",
-    "express": "*"
-  },
-  "devDependencies": {
-    "frisby": "^0.8.3",
-    "grunt": "^0.4.5",
-    "grunt-contrib-nodeunit": "~0.4.1",
-    "jasmine-node": "^1.14.5"
+    "mysql": "^2.5.1"
   }
 }
